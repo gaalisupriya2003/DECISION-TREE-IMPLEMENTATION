@@ -76,6 +76,11 @@ This project demonstrates how decision trees can effectively classify wine types
 
 ![Image](https://github.com/user-attachments/assets/e8b49895-9842-4fb6-a6b4-7bd5d4e0800b)
 
+## CONFUSION MATRIX
+
+![Image](https://github.com/user-attachments/assets/c0c3af92-1826-43a9-abe0-86201d925258)
+
+
 
 
 
