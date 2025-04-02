@@ -65,3 +65,6 @@ Using **plot_tree()**, we visualized the decision tree, which revealed:
 
 ## Conclusion  
 This project demonstrates how decision trees can effectively classify wine types with **94% accuracy** while maintaining high interpretability. The decision tree model allows for **easy visualization**, helping researchers and winemakers understand which features contribute to wine classification. By leveraging Scikit-learn’s tools, we achieved a reliable and explainable machine learning model, making it useful for real-world applications in wine assessment, production, and consumer recommendations.
+
+##UTPUT OF THE TASK
+![Image](https://github.com/user-attachments/assets/a19e9eeb-4b38-4f99-893e-ecd827ed23c7)
