@@ -68,6 +68,10 @@ This project demonstrates how decision trees can effectively classify wine types
 
 ## OUTPUT OF THE TASK
 
+## CLASSIFICATION METRICS 
+
 ![Image](https://github.com/user-attachments/assets/a19e9eeb-4b38-4f99-893e-ecd827ed23c7)
+
+TREE VISUALISATION
 
 ![Image](https://github.com/user-attachments/assets/e8b49895-9842-4fb6-a6b4-7bd5d4e0800b)
